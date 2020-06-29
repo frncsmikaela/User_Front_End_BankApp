@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "frances@gmail.com",
+      "password": "frances",
+      "firstName": "frances",
+      "lastName": "agasino",
+      "accessLevel": "customer"
+    },
+    {
+      "email": "teststt",
+      "password": "tststs",
+      "firstName": "hshshs",
+      "lastName": "hshshs",
+      "accessLevel": "customer",
+      "id": 2
+    }
+  ]
+}
